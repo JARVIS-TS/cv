@@ -1,0 +1,32 @@
+
+body{
+   background-color: #EEF1FF;
+ }
+ hr{
+   background: none;
+   border-style:dotted;
+   border-color: gray;
+   border-width:5px;
+   border-top:0;
+   width: 5%;
+ }
+h1{
+color: #B1B2FF;
+font-family: 'Brush Script MT', cursive;
+}
+h3{
+  color: #AAC4FF;
+  font-family: 'Brush Script MT', cursive;
+}
+p{
+  font-family: 'Brush Script MT', cursive;
+}
+ol{
+  font-family: 'Brush Script MT', cursive;
+}
+ul{
+  font-family: 'Brush Script MT', cursive;
+}
+table{
+  font-family: 'Brush Script MT', cursive;
+}
